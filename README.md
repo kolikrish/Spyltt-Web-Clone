@@ -17,7 +17,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/spylt-clone.git
+git clone https://github.com/kolikrish/Spyltt-Web-Clone.git
 
 # Navigate to the project directory
 cd spylt-clone
